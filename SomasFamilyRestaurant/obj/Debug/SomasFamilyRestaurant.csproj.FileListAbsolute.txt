@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\bin\Debug\SomasFamilyRestaurant.exe.config
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\bin\Debug\SomasFamilyRestaurant.exe
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\bin\Debug\SomasFamilyRestaurant.pdb
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.Form1.resources
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.Properties.Resources.resources
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.exe
+C:\Users\admin\source\repos\SomasFamilyRestaurant\SomasFamilyRestaurant\obj\Debug\SomasFamilyRestaurant.pdb
